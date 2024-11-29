@@ -1,0 +1,20 @@
+{
+  "debug_mode": true,
+  "hardware": {
+    "cuda": false,
+    "gpu_id": 0,
+    "n_cpu": 4,
+    "n_threads": 4
+  },
+  "path": {
+    "data_base": "<project_root_path>/data/raw/WritingPrompts.db",
+    "data_external": "<project_root_path>/data/external",
+    "data_folder": "<project_root_path>/data",
+    "glove_file": "glove.840B.300d.txt",
+    "key_val_store": "<project_root_path>/data/processed/features.db",
+    "model_folder": "<project_root_path>/models",
+    "nltk_sentence_tokenizer": "tokenizers/punkt/english.pickle",
+    "pretrained_model": "roberta-large",
+    "project_root_folder": "<project_root_path>"
+  }
+}

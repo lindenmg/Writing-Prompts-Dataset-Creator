@@ -1,0 +1,16 @@
+{
+  "debug_mode": true,
+  "p_1":42,
+  "p_2":27,
+  "p_3":"foo",
+  "subconf_1": {
+    "p_4": 25,
+    "subconf_2": {
+      "p_5":28,
+      "list_1": [1,2,3,4,5]
+    }
+  },
+  "path": {
+    "data_folder": "/the/path/to/the/data/folder"
+  }
+}
